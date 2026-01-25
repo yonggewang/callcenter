@@ -14,7 +14,7 @@ class Settings(BaseSettings):
     STT_PROVIDER: str = "twilio" 
     
     # Google Cloud
-    GOOGLE_APPLICATION_CREDENTIALS_JSON: Optional[str] = None
+    GOOGLE_APPLICATION_CREDENTIALS: Optional[str] = None
     
     # Azure
     AZURE_SPEECH_KEY: Optional[str] = None
@@ -25,5 +25,6 @@ class Settings(BaseSettings):
 
     class Config:
         env_file = ".env"
+        extra = "ignore"
 
 settings = Settings()
