@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+twilio
+python-dotenv
+google-cloud-speech
+azure-cognitiveservices-speech
+pydantic
+pydantic-settings
+requests
