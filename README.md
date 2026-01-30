@@ -136,6 +136,21 @@ In addition to the AI Call Center, this server can host general web content (HTM
 2. The `index.html` in `static/` will be served at the root `/`.
 3. You can create subdirectories for different projects, e.g., `static/portfolio/index.html` will be available at `https://quantumca.org/portfolio/`.
 
+
+
+### 7. Demo Flow: Lanzhou Hand Pulled Noodles (Guided)
+The system is pre-configured with a demo for "Lanzhou Hand Pulled Noodles". 
+**New!** The logic is now "Guided," helping customers who don't know how to order from a robot.
+
+1. Call your Twilio number.
+2. **Greeting**: Clearly states it is an automated assistant.
+3. **Ordering**:
+   - Speak naturally: *"I'd like the General Tso Chicken"*
+   - Or browse categories: *"What poultry dishes do you have?"*
+   - Or specifically ask for combos: *"Chicken Chow Mein Combo"*
+4. **Guiding**: If you stay silent or say "I don't know", the system offers categories and examples.
+5. **Confirmation & Summary**: Ensures accuracy before placing the order.
+
 ## Testing
 - **API Status**: Visit `https://quantumca.org/api/status`
 - **Web Content**: Visit `https://quantumca.org/` to see the landing page.

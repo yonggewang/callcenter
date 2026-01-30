@@ -11,3 +11,7 @@ venv/
 # IDEs
 .vscode/
 .idea/
+certs/
+testing_env/
+temp_audio/
+orders/

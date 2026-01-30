@@ -1,0 +1,71 @@
+--- CATEGORY: APPETIZERS (10-19) ---
+10 | Pork Dumplings (8pcs) | $10.99 | Options: 1: Steamed, 2: Pan-fried
+11 | Steamed Stuffed Buns (5pcs) | $11.99
+12 | Sesame Balls (6pcs) | $6.99
+13 | Coconut Balls (6pcs) | $6.99
+14 | Smashed Cucumbers | $7.99
+15 | Rice Cake w. Brown Sugar | $7.99
+16 | Five Spiced Braised Beef | $15.99
+17 | Pumpkin Cake (6pcs) | $6.99
+18 | Mala Braised Beef | $15.99
+19 | Spring Rolls (2pcs) | $4.50
+
+--- CATEGORY: NOODLE SOUP / HAND-PULLED (20-39) ---
+* All items in this category prompt for Noodle Type: 
+* 1: Thin, 2: Wide, 3: Thick, 4: Leek Leaf, 5: Rice Noodles
+* Variety Selection (where applicable): 1: Beef, 2: Pork, 3: Chicken, 4: Shrimp, 5: Fried Tofu
+
+20 | ShanXi Shaved Noodles | $14.99 | Variety: 1, 2, 3, 4, 5
+21 | ShanXi Chili Oil Noodles | $14.99 | Variety: 1, 2, 3, 4, 5 (+$6)
+22 | Vegetarian LaMian | $11.99
+23 | Tomato Egg Noodle Soup | $12.99
+24 | Seafood Noodles | $18.99
+25 | Beijing ZhaJiang Mian | $14.99
+26 | Cold Noodles | $14.99 | Variety: 1, 2, 3, 4 (+$6)
+27 | Pickled Cabbage Beef Noodle | $14.99 | Variety: 1, 2, 3, 4, 5
+28 | Clear Broth Beef Noodle | $14.99 | Variety: 1, 2, 3, 4, 5
+29 | Spicy Beef Noodle Soup | $14.99 | Variety: 1, 2, 3, 4, 5
+30 | Braised Beef Noodle Soup | $14.99 | Variety: 1, 2, 3, 4, 5
+
+--- CATEGORY: FRIED RICE & CHAO MIAN (40-59) ---
+40 | ShanXi Stir-Fried Shaved Noodles | $14.99 | Variety: 1, 2, 3, 4
+41 | House Special Fried Rice | $14.99
+42 | Beef Fried Rice | $13.99
+43 | Chicken Fried Rice | $12.99
+44 | Pork Fried Rice | $12.99
+45 | Shrimp Fried Rice | $13.99
+46 | Egg Fried Rice | $10.99
+47 | House Special ChaoMian | $15.99
+48 | Beef ChaoMian | $14.99
+49 | Chicken ChaoMian | $14.99
+50 | Shrimp ChaoMian | $14.99
+51 | Pork ChaoMian | $14.99
+52 | Vegetable ChaoMian | $12.99
+
+--- CATEGORY: SAUTEED DISHES (60-79) ---
+60 | Beef w. Spicy Broth | $18.99
+61 | Fish Fillet w. Spicy Broth | $18.99
+62 | Spicy Wok Fish Fillet | $21.99
+63 | Spicy Wok Beef | $21.99
+64 | Spicy Wok Shrimp | $21.99
+65 | Fish Fillet w. Pickled Cabbage | $21.99
+66 | Eggplant Tofu in Pot | $18.99
+67 | Shredded Pork w. Garlic Sauce | $17.99
+68 | Fried Diced Chicken (ChongQing Style) | $18.99
+69 | Mongolian Beef | $15.99
+70 | General Tso's Chicken | $15.99
+71 | Kung Pao Chicken | $17.99
+72 | MaPo Tofu | $14.99
+73 | Eggplant w. Garlic Sauce | $14.99
+74 | Stir-Fried Green Beans | $13.99
+
+--- CATEGORY: DRINKS (80-99) ---
+80 | Classic Boba Milk Tea | $5.95
+81 | Brown Sugar Boba Milk Tea | $5.95
+82 | Thai Boba Milk Tea | $5.95
+83 | Matcha Boba Milk Tea | $5.95
+84 | Mango Iced Green Tea | $5.95
+85 | Chinese Herbal Tea (Can) | $3.50
+86 | Rock Sugar and Pear (Can) | $3.50
+87 | Coconut Milk | $3.99
+88 | Soda | $2.25 | Options: 1: Coke, 2: Sprite, 3: Fanta, 4: Diet Coke
